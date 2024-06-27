@@ -12,7 +12,6 @@ In addition to my passion for robotics, I also run a popular Minecraft server na
 
 Feel free to reach out if you have any questions, suggestions, or just want to say hi!
 
-- Discord
-  <img src="https://discord.c99.nl/widget/theme-1/734589001721315348.png"/>
+<img src="https://discord.c99.nl/widget/theme-1/734589001721315348.png"/>
 
   
