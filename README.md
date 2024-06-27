@@ -28,14 +28,24 @@ void loop() {
 
 <h2 align="center"> 🐾 My Discord Community 🐾</h2>
 
-Foxy Network is a Minecraft server that was established on December 10, 2021, by its creator LourenT. It is a vibrant and dynamic community where players can engage in various gameplay modes and connect with fellow Minecraft enthusiasts.
+<div align="center">
+  Foxy Network is a Minecraft server that was established on December 10, 2021, by its creator LourenT. It is a vibrant and dynamic community where players can engage in various gameplay modes and connect with fellow Minecraft enthusiasts.
+</div>
+<br>
+<div align="center">
+ <img src="https://discord.com/api/guilds/897455948166205440/widget.png?style=banner2" alt="Discord Banner"/>
+</div>
 
-<img src="https://discord.com/api/guilds/897455948166205440/widget.png?style=banner2" alt="Discord Banner"/>
 
 <h2 align="center">📞 Contact Me On</h2>
 
-Feel free to reach out if you have any questions, suggestions, or just want to say hi!
+<div align="center">
+  Feel free to reach out if you have any questions, suggestions, or just want to say hi!
+</div>
 
-<img src="https://discord.c99.nl/widget/theme-1/734589001721315348.png"/>
+<br>
+<div align="center">
+  <img src="https://discord.c99.nl/widget/theme-1/734589001721315348.png"/>
+</div>
 
   
