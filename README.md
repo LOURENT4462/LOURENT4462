@@ -17,7 +17,7 @@ void setup() {
   Serial.println("Hi, I'm LourenT7! 👋");
   Serial.println("I'm an Arduino enthusiast who loves working on robotics projects.");
   Serial.println("I also run a popular Minecraft server named Foxy Network in Indonesia.");
-  Serial.println("Visit: https://dc.foxy-network.net");
+  Serial.println("Visit: https://foxy-network.net");
 }
 
 void loop() {
